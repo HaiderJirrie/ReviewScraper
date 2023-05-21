@@ -1,7 +1,8 @@
 # Bever review scraper
 
 Voor het vak Data science & data engineering, heb ik een webscraper met Beautifulsoup4 moeten bouwen die klanten reviews verzameld.\
-Ik heb besloten om reviews van de outdoor winkel Bever te scrapen, de reviews worden opgeslagen in ./data.\
+Ik heb besloten om reviews van de outdoor winkel Bever te scrapen, de reviews worden opgeslagen in ./data.
+
 In de toekomst zal ik ook review uit andere websites proberen te scrapen, daarom heb ik de Scraper class abstract gemaakt.
 
 ## Installatie
@@ -12,7 +13,7 @@ Als het runnen van de scraper faalt zal je het opnieuw moeten proberen, dit komt
 
 ## Python
 
-Dit is mijn eerste project dat ik met python heb gewerkt
+Dit is mijn eerste project dat ik met python heb gewerkt.
 
 ## Asynchroon
 
